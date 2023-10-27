@@ -11,8 +11,7 @@ Tras este procedimiento ya tendremos el archivo abierto en nuestro IDE.Al realiz
 TRas añadir un programa, subimos otra vez al githubeste proyecto.
 Abrimos la terminal del intellij yrealizamos los pasos para subir este md.
 git init
-git add README.md
+git add boletin04.java libro.java README.md
 git commit -m "ejercicio2"
 git branch -M main
-git remote add origin https://github.com/kiglesiasesteves/examenDAM.git
 git push -u origin main
